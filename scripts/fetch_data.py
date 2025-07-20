@@ -2,7 +2,6 @@ import requests
 import pandas as pd
 import os
 
-# === Define Indicators ===
 indicators = {
     'life_expectancy': 'SP.DYN.LE00.IN',
     'health_expenditure': 'SH.XPD.CHEX.PC.CD',
@@ -13,7 +12,6 @@ indicators = {
     'gdp_per_capita': 'NY.GDP.PCAP.CD'
 }
 
-# === Fetch Function ===
 def fetch_worldbank_data(indicator_code, year='2020', per_page=1000):
     url = f"http://api.worldbank.org/v2/country/all/indicator/{indicator_code}?format=json&per_page={per_page}&date={year}"
     print(f"Fetching: {indicator_code}")
@@ -42,11 +40,10 @@ def fetch_worldbank_data(indicator_code, year='2020', per_page=1000):
     
     return pd.DataFrame(records)
 
-# === Create output folder if not exists ===
 raw_data_path = os.path.join("..", "data", "raw")
 os.makedirs(raw_data_path, exist_ok=True)
 
-# === Loop through all indicators and save ===
+
 for name, code in indicators.items():
     df = fetch_worldbank_data(code)
     if not df.empty:
@@ -55,5 +52,5 @@ for name, code in indicators.items():
         print(f"Saved: {output_path}")
     else:
         print(f"Skipped: {name}")
-# === End of Script ===
+
 print("Data fetching complete.")

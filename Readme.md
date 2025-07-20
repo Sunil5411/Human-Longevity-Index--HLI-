@@ -30,15 +30,15 @@ This project is a step toward turning open data into **policy-ready insights** t
 
 ## 🧪 Tech Stack
 
-| Area            | Tools Used                                          |
-|------------------|-----------------------------------------------------|
-| Programming      | Python 3.11                                          |
-| Data Source      | World Bank API (Health & Development Indicators)     |
-| Libraries        | pandas, requests, matplotlib, seaborn, plotly        |
-| Visualization    | Streamlit (dashboard), geopandas (maps)              |
-| API Handling     | REST-based API queries (World Bank)                  |
-| Analytics        | Correlation analysis, KPI design, scoring systems    |
-| Automation       | Scheduled refresh scripts (optional: cron/Streamlit Cloud) |
+| Area          | Tools Used                                                 |
+| ------------- | ---------------------------------------------------------- |
+| Programming   | Python 3.11                                                |
+| Data Source   | World Bank API (Health & Development Indicators)           |
+| Libraries     | pandas, requests, matplotlib, seaborn, plotly              |
+| Visualization | Streamlit (dashboard), geopandas (maps)                    |
+| API Handling  | REST-based API queries (World Bank)                        |
+| Analytics     | Correlation analysis, KPI design, scoring systems          |
+| Automation    | Scheduled refresh scripts (optional: cron/Streamlit Cloud) |
 
 ---
 
@@ -54,13 +54,13 @@ This project is a step toward turning open data into **policy-ready insights** t
 
 ## 📈 Unique KPIs Designed
 
-| KPI Name                     | Description                                                                 |
-|-----------------------------|-----------------------------------------------------------------------------|
+| KPI Name                         | Description                                                                 |
+| -------------------------------- | --------------------------------------------------------------------------- |
 | **Longevity Impact Score (LIS)** | Weighted score combining factors like sanitation, education, GDP, pollution |
 | **Policy Risk Index (PRI)**      | Flags countries with declining life expectancy or volatility in health data |
-| **Health Inequality Gap %**     | Measures longevity disparity between top and bottom deciles                 |
-| **Clean Life Years (CLY)**      | Adjusted life expectancy factoring in air & water quality                  |
-| **Income vs Health ROI**        | Correlation between income growth and health outcome improvement           |
+| **Health Inequality Gap %**      | Measures longevity disparity between top and bottom deciles                 |
+| **Clean Life Years (CLY)**       | Adjusted life expectancy factoring in air & water quality                   |
+| **Income vs Health ROI**         | Correlation between income growth and health outcome improvement            |
 
 ---
 
