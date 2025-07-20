@@ -1,0 +1,245 @@
+country,country_code,indicator,indicator_name,year,value
+Africa Eastern and Southern,ZH,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,58.9116528725575
+Africa Western and Central,ZI,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,97.0265476087927
+Arab World,1A,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,33.9629421038802
+Caribbean small states,S3,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,20.0355771372566
+Central Europe and the Baltics,B8,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,4.75440826587489
+Early-demographic dividend,V2,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,33.5541596066076
+East Asia & Pacific,Z4,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,14.9
+East Asia & Pacific (excluding high income),4E,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,15.8188837466507
+East Asia & Pacific (IDA & IBRD countries),T4,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,15.7946133586327
+Euro area,XC,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.69214156602834
+Europe & Central Asia,Z7,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,8.1
+Europe & Central Asia (excluding high income),7E,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,14.2552099801291
+Europe & Central Asia (IDA & IBRD countries),T7,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,11.1663375864793
+European Union,EU,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.89009021533782
+Fragile and conflict affected situations,F1,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,76.2869361353656
+Heavily indebted poor countries (HIPC),XE,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,66.6593441456134
+High income,XD,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,5.1
+IBRD only,XF,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,22.3175179523418
+IDA & IBRD total,ZT,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,42.0617772545654
+IDA blend,XH,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,79.4345414046837
+IDA only,XI,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,59.3582947937948
+IDA total,XG,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,66.3357466652147
+Late-demographic dividend,V3,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,10.1339013614469
+Latin America & Caribbean,ZJ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,16.9
+Latin America & Caribbean (excluding high income),XJ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,16.8138061827307
+Latin America & the Caribbean (IDA & IBRD countries),T2,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,16.9926546368583
+Least developed countries: UN classification,XL,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,62.1953187574613
+Low & middle income,XO,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,42.423581992716
+Low income,XM,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,68.2
+Lower middle income,XN,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,47.9
+"Middle East, North Africa, Afghanistan & Pakistan",ZQ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,21.2
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,42.4403369537926
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",T3,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,42.675317547486
+Middle income,XP,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,36.4452767570601
+North America,XU,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,6.3
+OECD members,OE,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,6.94767575409873
+Other small states,S4,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,31.82945015444
+Pacific island small states,S2,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,24.2673314731435
+Post-demographic dividend,V4,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,4.84978909831033
+Pre-demographic dividend,V1,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,77.9900139650475
+Small states,S1,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,28.024101946979
+South Asia,8S,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,39.2
+South Asia (IDA & IBRD),T5,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,31.926251134906
+Sub-Saharan Africa,ZG,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,74.7
+Sub-Saharan Africa (excluding high income),ZF,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,76.9728567411896
+Sub-Saharan Africa (IDA & IBRD countries),T6,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,74.4940703103752
+Upper middle income,XT,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,14.4
+World,1W,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,38.7
+Afghanistan,AF,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,61.3
+Albania,AL,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,9.4
+Algeria,DZ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,22.9
+Andorra,AD,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,2.9
+Angola,AO,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,71.6
+Antigua and Barbuda,AG,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,10.1
+Argentina,AR,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,10.3
+Armenia,AM,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,11.6
+Australia,AU,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.8
+Austria,AT,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.4
+Azerbaijan,AZ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,21.3
+"Bahamas, The",BS,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,13.3
+Bahrain,BH,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,8.0
+Bangladesh,BD,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,31.5
+Barbados,BB,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,11.1
+Belarus,BY,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,2.9
+Belgium,BE,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.9
+Belize,BZ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,13.2
+Benin,BJ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,85.5
+Bhutan,BT,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,25.5
+Bolivia,BO,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,25.7
+Bosnia and Herzegovina,BA,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,6.6
+Botswana,BW,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,43.9
+Brazil,BR,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,14.9
+British Virgin Islands,VG,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,13.9
+Brunei Darussalam,BN,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,9.7
+Bulgaria,BG,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,6.5
+Burkina Faso,BF,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,85.3
+Burundi,BI,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,54.6
+Cabo Verde,CV,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,13.3
+Cambodia,KH,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,25.6
+Cameroon,CM,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,74.6
+Canada,CA,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,5.1
+Central African Republic,CF,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,122.6
+Chad,TD,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,111.0
+Chile,CL,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,6.8
+China,CN,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,7.5
+Colombia,CO,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,13.2
+Comoros,KM,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,43.5
+"Congo, Dem. Rep.",CD,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,80.7
+"Congo, Rep.",CG,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,44.7
+Costa Rica,CR,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,9.4
+Cote d'Ivoire,CI,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,73.7
+Croatia,HR,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,4.7
+Cuba,CU,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,7.2
+Cyprus,CY,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.2
+Czechia,CZ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,2.9
+Denmark,DK,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.7
+Djibouti,DJ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,55.6
+Dominica,DM,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,33.8
+Dominican Republic,DO,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,33.8
+Ecuador,EC,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,13.6
+"Egypt, Arab Rep.",EG,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,19.4
+El Salvador,SV,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,11.7
+Equatorial Guinea,GQ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,78.8
+Eritrea,ER,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,39.1
+Estonia,EE,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,2.4
+Eswatini,SZ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,49.8
+Ethiopia,ET,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,52.0
+Fiji,FJ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,27.2
+Finland,FI,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,2.3
+France,FR,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,4.2
+Gabon,GA,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,36.2
+"Gambia, The",GM,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,48.9
+Georgia,GE,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,9.6
+Germany,DE,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.7
+Ghana,GH,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,42.0
+Greece,GR,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,4.0
+Grenada,GD,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,18.7
+Guatemala,GT,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,23.7
+Guinea,GN,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,103.2
+Guinea-Bissau,GW,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,76.6
+Guyana,GY,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,28.4
+Haiti,HT,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,60.4
+Honduras,HN,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,17.2
+Hungary,HU,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,4.0
+Iceland,IS,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,2.7
+India,IN,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,32.4
+Indonesia,ID,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,22.8
+"Iran, Islamic Rep.",IR,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,13.0
+Iraq,IQ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,24.9
+Ireland,IE,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.5
+Israel,IL,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.5
+Italy,IT,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.0
+Jamaica,JM,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,19.0
+Japan,JP,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,2.4
+Jordan,JO,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,14.4
+Kazakhstan,KZ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,10.1
+Kenya,KE,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,42.8
+Kiribati,KI,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,58.6
+"Korea, Dem. People's Rep.",KP,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,17.4
+"Korea, Rep.",KR,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.0
+Kosovo,XK,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,10.5
+Kuwait,KW,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,8.9
+Kyrgyz Republic,KG,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,17.8
+Lao PDR,LA,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,43.4
+Latvia,LV,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.7
+Lebanon,LB,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,15.5
+Lesotho,LS,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,66.8
+Liberia,LR,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,79.7
+Libya,LY,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,11.2
+Lithuania,LT,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.7
+Luxembourg,LU,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,2.5
+Madagascar,MG,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,66.3
+Malawi,MW,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,43.1
+Malaysia,MY,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,8.1
+Maldives,MV,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,6.9
+Mali,ML,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,100.0
+Malta,MT,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,6.0
+Marshall Islands,MH,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,31.0
+Mauritania,MR,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,41.7
+Mauritius,MU,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,15.8
+Mexico,MX,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,13.8
+"Micronesia, Fed. Sts.",FM,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,25.5
+Moldova,MD,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,14.9
+Monaco,MC,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.0
+Mongolia,MN,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,14.8
+Montenegro,ME,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.0
+Morocco,MA,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,18.6
+Mozambique,MZ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,67.3
+Myanmar,MM,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,42.9
+Namibia,NA,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,45.7
+Nauru,NR,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,11.1
+Nepal,NP,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,29.9
+Netherlands,NL,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,4.0
+New Zealand,NZ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,5.0
+Nicaragua,NI,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,15.1
+Niger,NE,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,120.6
+Nigeria,NG,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,114.4
+North Macedonia,MK,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,5.9
+Norway,NO,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,2.4
+Oman,OM,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,10.7
+Pakistan,PK,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,64.6
+Palau,PW,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,23.3
+Panama,PA,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,15.2
+Papua New Guinea,PG,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,44.5
+Paraguay,PY,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,18.8
+Peru,PE,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,16.6
+Philippines,PH,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,27.9
+Poland,PL,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,4.4
+Portugal,PT,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.4
+Qatar,QA,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,6.4
+Romania,RO,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,6.6
+Russian Federation,RU,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,5.4
+Rwanda,RW,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,42.5
+Samoa,WS,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,17.0
+San Marino,SM,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,1.6
+Sao Tome and Principe,ST,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,16.0
+Saudi Arabia,SA,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,6.9
+Senegal,SN,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,44.6
+Serbia,RS,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,5.5
+Seychelles,SC,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,14.8
+Sierra Leone,SL,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,105.1
+Singapore,SG,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,2.3
+Slovak Republic,SK,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,5.9
+Slovenia,SI,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,2.4
+Solomon Islands,SB,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,22.4
+Somalia,SO,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,114.4
+South Africa,ZA,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,34.1
+South Sudan,SS,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,98.7
+Spain,ES,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,3.2
+Sri Lanka,LK,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,6.9
+St. Kitts and Nevis,KN,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,17.7
+St. Lucia,LC,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,16.3
+St. Vincent and the Grenadines,VC,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,12.3
+Sudan,SD,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,55.3
+Suriname,SR,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,17.8
+Sweden,SE,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,2.6
+Switzerland,CH,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,4.0
+Syrian Arab Republic,SY,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,22.4
+Tajikistan,TJ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,28.0
+Tanzania,TZ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,44.2
+Thailand,TH,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,10.1
+Timor-Leste,TL,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,54.2
+Togo,TG,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,64.3
+Tonga,TO,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,10.8
+Trinidad and Tobago,TT,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,20.6
+Tunisia,TN,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,16.0
+Turkiye,TR,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,10.5
+Turkmenistan,TM,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,42.6
+Turks and Caicos Islands,TC,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,6.1
+Tuvalu,TV,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,21.9
+Uganda,UG,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,43.5
+Ukraine,UA,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,8.4
+United Arab Emirates,AE,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,6.0
+United Kingdom,GB,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,4.4
+United States,US,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,6.5
+Uruguay,UY,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,7.1
+Uzbekistan,UZ,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,15.0
+Vanuatu,VU,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,17.7
+"Venezuela, RB",VE,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,24.3
+Viet Nam,VN,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,21.0
+West Bank and Gaza,PS,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,15.2
+"Yemen, Rep.",YE,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,43.2
+Zambia,ZM,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,52.4
+Zimbabwe,ZW,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,50.1

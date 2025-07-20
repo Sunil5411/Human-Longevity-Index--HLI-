@@ -1,0 +1,266 @@
+country,country_code,indicator,indicator_name,year,value
+Africa Eastern and Southern,ZH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,63.7664840026943
+Africa Western and Central,ZI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,57.3644254011107
+Arab World,1A,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.7265588103862
+Caribbean small states,S3,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.9394359303317
+Central Europe and the Baltics,B8,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.0162701269145
+Early-demographic dividend,V2,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,69.8801308490982
+East Asia & Pacific,Z4,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.5434376080231
+East Asia & Pacific (excluding high income),4E,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.6976393295064
+East Asia & Pacific (IDA & IBRD countries),T4,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.73384970547
+Euro area,XC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,81.4873571657503
+Europe & Central Asia,Z7,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,77.1757484533311
+Europe & Central Asia (excluding high income),7E,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.5589573506665
+Europe & Central Asia (IDA & IBRD countries),T7,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.1523738187621
+European Union,EU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,80.4414754678551
+Fragile and conflict affected situations,F1,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,62.0881829797288
+Heavily indebted poor countries (HIPC),XE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,63.0726319690016
+High income,XD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,79.2043516940348
+IBRD only,XF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.29542288776
+IDA & IBRD total,ZT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.7491565630532
+IDA blend,XH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,60.8180066140619
+IDA only,XI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,65.411479068422
+IDA total,XG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,63.8022749850664
+Late-demographic dividend,V3,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.6937147799405
+Latin America & Caribbean,ZJ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.188934023043
+Latin America & Caribbean (excluding high income),XJ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.8759217271338
+Latin America & the Caribbean (IDA & IBRD countries),T2,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.0747493617473
+Least developed countries: UN classification,XL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,64.8323585417323
+Low & middle income,XO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.7486800091755
+Low income,XM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,62.8180995019214
+Lower middle income,XN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,68.040356336938
+"Middle East, North Africa, Afghanistan & Pakistan",ZQ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,69.9110789555644
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,69.050634286622
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",T3,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,69.0090964026373
+Middle income,XP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.5214553857761
+North America,XU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,77.4498099795241
+OECD members,OE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,78.958047957323
+Other small states,S4,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.5097097789427
+Pacific island small states,S2,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,68.3568108792759
+Post-demographic dividend,V4,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,80.0659140743109
+Pre-demographic dividend,V1,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,60.501207001444
+Small states,S1,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.8255552822673
+South Asia,8S,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.3622206982499
+South Asia (IDA & IBRD),T5,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.3622206982499
+Sub-Saharan Africa,ZG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,61.1675270829902
+Sub-Saharan Africa (excluding high income),ZF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,60.6222294256854
+Sub-Saharan Africa (IDA & IBRD countries),T6,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,61.1675270829902
+Upper middle income,XT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.2315516201179
+World,1W,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.1822239463874
+Afghanistan,AF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,61.454
+Albania,AL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,77.824
+Algeria,DZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.257
+American Samoa,AS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.672
+Andorra,AD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,79.418
+Angola,AO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,63.116
+Antigua and Barbuda,AG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,77.161
+Argentina,AR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.878
+Armenia,AM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.3756097560976
+Aruba,AW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.406
+Australia,AU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,83.2
+Austria,AT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,81.1926829268293
+Azerbaijan,AZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.312
+"Bahamas, The",BS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.994
+Bahrain,BH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,78.683
+Bangladesh,BD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.421
+Barbados,BB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.647
+Belarus,BY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.1385609756098
+Belgium,BE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,80.6951219512195
+Belize,BZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.58
+Benin,BJ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,60.154
+Bermuda,BM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,81.456
+Bhutan,BT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.253
+Bolivia,BO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,62.906
+Bosnia and Herzegovina,BA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.04
+Botswana,BW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,67.643
+Brazil,BR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,74.506
+British Virgin Islands,VG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.894
+Brunei Darussalam,BN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.114
+Bulgaria,BG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.3560975609756
+Burkina Faso,BF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,60.454
+Burundi,BI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,62.569
+Cabo Verde,CV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.818
+Cambodia,KH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.059
+Cameroon,CM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,61.674
+Canada,CA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,81.5351219512195
+Cayman Islands,KY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,79.23
+Central African Republic,CF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,50.596
+Chad,TD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,53.082
+Channel Islands,JG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,80.9
+Chile,CL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,79.349
+China,CN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,78.019
+Colombia,CO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,74.757
+Comoros,KM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,65.756
+"Congo, Dem. Rep.",CD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,60.428
+"Congo, Rep.",CG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,64.391
+Costa Rica,CR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,79.725
+Cote d'Ivoire,CI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,60.14
+Croatia,HR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,77.5243902439024
+Cuba,CU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,77.407
+Curacao,CW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.501
+Cyprus,CY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,81.23
+Czechia,CZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,78.2268292682927
+Denmark,DK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,81.6024390243903
+Djibouti,DJ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,64.2
+Dominica,DM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.269
+Dominican Republic,DO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.636
+Ecuador,EC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.004
+"Egypt, Arab Rep.",EG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,69.79
+El Salvador,SV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.244
+Equatorial Guinea,GQ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,62.141
+Eritrea,ER,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,66.98
+Estonia,EE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,78.5951219512195
+Eswatini,SZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,59.862
+Ethiopia,ET,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,65.969
+Faroe Islands,FO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,82.6439024390244
+Fiji,FJ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,66.924
+Finland,FI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,81.9317073170732
+France,FR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,82.1756097560976
+French Polynesia,PF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,82.459
+Gabon,GA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,67.073
+"Gambia, The",GM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,64.418
+Georgia,GE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.509
+Germany,DE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,81.0414634146342
+Ghana,GH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,64.309
+Gibraltar,GI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,83.07
+Greece,GR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,81.2878048780488
+Greenland,GL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.8507317073171
+Grenada,GD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.019
+Guam,GU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.529
+Guatemala,GT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,69.971
+Guinea,GN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,59.35
+Guinea-Bissau,GW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,61.343
+Guyana,GY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,67.751
+Haiti,HT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,63.773
+Honduras,HN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.864
+"Hong Kong SAR, China",HK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,85.4963414634146
+Hungary,HU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.419512195122
+Iceland,IS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,83.0634146341463
+India,IN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.156
+Indonesia,ID,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,68.817
+"Iran, Islamic Rep.",IR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,74.141
+Iraq,IQ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,69.651
+Ireland,IE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,82.4560975609756
+Isle of Man,IM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,80.591
+Israel,IL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,82.6487804878049
+Italy,IT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,82.1951219512195
+Jamaica,JM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.452
+Japan,JP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,84.56
+Jordan,JO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.583
+Kazakhstan,KZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.195
+Kenya,KE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,61.596
+Kiribati,KI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,65.205
+"Korea, Dem. People's Rep.",KP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.783
+"Korea, Rep.",KR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,83.4268292682927
+Kosovo,XK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,74.212
+Kuwait,KW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,78.7609756097561
+Kyrgyz Republic,KG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.8
+Lao PDR,LA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,68.339
+Latvia,LV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.1853658536585
+Lebanon,LB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.299
+Lesotho,LS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,55.133
+Liberia,LR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,61.267
+Libya,LY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.388
+Liechtenstein,LI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,81.6585365853659
+Lithuania,LT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.0292682926829
+Luxembourg,LU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,82.1439024390244
+"Macao SAR, China",MO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,84.1292682926829
+Madagascar,MG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,62.706
+Malawi,MW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,65.216
+Malaysia,MY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.057
+Maldives,MV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,78.713
+Mali,ML,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,58.858
+Malta,MT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,82.0975609756098
+Marshall Islands,MH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,65.387
+Mauritania,MR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,66.794
+Mauritius,MU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,74.1770731707317
+Mexico,MX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.449
+"Micronesia, Fed. Sts.",FM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,65.878
+Moldova,MD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,69.914
+Monaco,MC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,86.089
+Mongolia,MN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.3490243902439
+Montenegro,ME,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.9317073170732
+Morocco,MA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.133
+Mozambique,MZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,61.39
+Myanmar,MM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,66.612
+Namibia,NA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,64.071
+Nauru,NR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,61.527
+Nepal,NP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,69.106
+Netherlands,NL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,81.3585365853659
+New Caledonia,NC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,77.049
+New Zealand,NZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,82.2560975609756
+Nicaragua,NI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.766
+Niger,NE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,59.89
+Nigeria,NG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,53.072
+North Macedonia,MK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,74.3951219512195
+Northern Mariana Islands,MP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,78.03
+Norway,NO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,83.209756097561
+Oman,OM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,77.763
+Pakistan,PK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,65.701
+Palau,PW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,68.689
+Panama,PA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.33
+Papua New Guinea,PG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,65.075
+Paraguay,PY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.72
+Peru,PE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.832
+Philippines,PH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.097
+Poland,PL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.4
+Portugal,PT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,81.3292682926829
+Puerto Rico (US),PR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,80.009
+Qatar,QA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,80.409
+Romania,RO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,74.2536585365854
+Russian Federation,RU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.3387804878049
+Rwanda,RW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,66.953
+Samoa,WS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.727
+San Marino,SM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,82.65
+Sao Tome and Principe,ST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,67.979
+Saudi Arabia,SA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,77.596
+Senegal,SN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,67.496
+Serbia,RS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,74.4780487804878
+Seychelles,SC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,77.2365853658537
+Sierra Leone,SL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,59.694
+Singapore,SG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,83.5439024390244
+Sint Maarten (Dutch part),SX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.002
+Slovak Republic,SK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.8658536585366
+Slovenia,SI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,80.5317073170732
+Solomon Islands,SB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,69.258
+Somalia,SO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,57.095
+South Africa,ZA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,65.15
+South Sudan,SS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,57.648
+Spain,ES,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,82.2317073170732
+Sri Lanka,LK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.928
+St. Kitts and Nevis,KN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.181
+St. Lucia,LC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.308
+St. Martin (French part),MF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,80.085
+St. Vincent and the Grenadines,VC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,69.605
+Sudan,SD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,65.124
+Suriname,SR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.321
+Sweden,SE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,82.3560975609756
+Switzerland,CH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,83.0
+Syrian Arab Republic,SY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.944
+Tajikistan,TJ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,68.605
+Tanzania,TZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,66.771
+Thailand,TH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,77.331
+Timor-Leste,TL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,66.919
+Togo,TG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,61.123
+Tonga,TO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.379
+Trinidad and Tobago,TT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.645
+Tunisia,TN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.004
+Turkiye,TR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.525
+Turkmenistan,TM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,68.846
+Turks and Caicos Islands,TC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,77.499
+Tuvalu,TV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,66.357
+Uganda,UG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,66.41
+Ukraine,UA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.283
+United Arab Emirates,AE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,81.936
+United Kingdom,GB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,80.331756097561
+United States,US,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.9804878048781
+Uruguay,UY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,78.381
+Uzbekistan,UZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.461
+Vanuatu,VU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.385
+"Venezuela, RB",VE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,72.369
+Viet Nam,VN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.383
+Virgin Islands (U.S.),VI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,79.819512195122
+West Bank and Gaza,PS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,74.998
+"Yemen, Rep.",YE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,66.435
+Zambia,ZM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,63.361
+Zimbabwe,ZW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,61.53

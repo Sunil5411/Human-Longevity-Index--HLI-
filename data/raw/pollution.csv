@@ -1,0 +1,249 @@
+country,country_code,indicator,indicator_name,year,value
+Africa Eastern and Southern,ZH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,26.7556863585895
+Africa Western and Central,ZI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,54.8918200968729
+Arab World,1A,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,39.7132146879838
+Caribbean small states,S3,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,24.8557248353072
+Central Europe and the Baltics,B8,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,15.7396365732288
+Early-demographic dividend,V2,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,37.4158024833556
+East Asia & Pacific,Z4,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,28.8820060378253
+East Asia & Pacific (excluding high income),4E,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,30.4014002906163
+East Asia & Pacific (IDA & IBRD countries),T4,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,30.4069592021401
+Euro area,XC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,11.0040291952193
+Europe & Central Asia,Z7,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,14.3048173647202
+Europe & Central Asia (excluding high income),7E,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,22.0578086712715
+Europe & Central Asia (IDA & IBRD countries),T7,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,17.9080689402664
+European Union,EU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,11.8363007509251
+Fragile and conflict affected situations,F1,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,38.1474819052194
+Heavily indebted poor countries (HIPC),XE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,36.1629038373708
+High income,XD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,12.8813018920967
+IBRD only,XF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,32.9550477515013
+IDA & IBRD total,ZT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,34.5330969219711
+IDA blend,XH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,44.3434332455677
+IDA only,XI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,35.8720333804359
+IDA total,XG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,38.842742871395
+Late-demographic dividend,V3,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,28.2348171375034
+Latin America & Caribbean,ZJ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,15.642998283168
+Latin America & Caribbean (excluding high income),XJ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,15.4844658279965
+Latin America & the Caribbean (IDA & IBRD countries),T2,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,15.5869189205524
+Least developed countries: UN classification,XL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,35.8831468849027
+Low & middle income,XO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,35.5143257094055
+Low income,XM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,36.4355932628923
+Lower middle income,XN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,42.9078801022033
+"Middle East, North Africa, Afghanistan & Pakistan",ZQ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,39.7214311766558
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,39.1850228116455
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",T3,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,39.2745706384466
+Middle income,XP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,35.4245271811054
+North America,XU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,7.68626814153951
+OECD members,OE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,12.2286170794392
+Other small states,S4,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,16.758966950265
+Pacific island small states,S2,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,12.8773179905891
+Post-demographic dividend,V4,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,10.9979683149134
+Pre-demographic dividend,V1,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,40.7072055821173
+Small states,S1,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,18.0957979628317
+South Asia,8S,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,47.322842941453
+South Asia (IDA & IBRD),T5,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,47.322842941453
+Sub-Saharan Africa,ZG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,38.1777310513302
+Sub-Saharan Africa (excluding high income),ZF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,39.4118680773682
+Sub-Saharan Africa (IDA & IBRD countries),T6,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,38.1777310513302
+Upper middle income,XT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,27.44376719023
+World,1W,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,31.3231664979631
+Afghanistan,AF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,46.0870936659706
+Albania,AL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,15.7070036417042
+Algeria,DZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,25.5526558310447
+American Samoa,AS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,6.71514739512663
+Andorra,AD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,9.08028059086901
+Angola,AO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,25.1452381976267
+Antigua and Barbuda,AG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,19.6982695582914
+Argentina,AR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,14.9081737974407
+Armenia,AM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,30.5796334750125
+Australia,AU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,8.25171746070811
+Austria,AT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,10.9335136815146
+Azerbaijan,AZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,21.7269999756599
+"Bahamas, The",BS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,18.9393918728687
+Bahrain,BH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,58.4950629834781
+Bangladesh,BD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,42.3813762359965
+Barbados,BB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,23.7309657842996
+Belarus,BY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,14.6089903841381
+Belgium,BE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,11.2160664677018
+Belize,BZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,28.6518070195516
+Benin,BJ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,51.0478241974862
+Bermuda,BM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,7.33600052500811
+Bhutan,BT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,23.9456576369223
+Bolivia,BO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,22.879459074231
+Bosnia and Herzegovina,BA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,26.6019532713554
+Botswana,BW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,18.9057549925814
+Brazil,BR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,12.1793252040724
+Brunei Darussalam,BN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,7.59726503432135
+Bulgaria,BG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,17.1474236131426
+Burkina Faso,BF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,58.4706762025055
+Burundi,BI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,29.6541345084659
+Cabo Verde,CV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,42.3225220905558
+Cambodia,KH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,24.1436022803452
+Cameroon,CM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,39.8126251004519
+Canada,CA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,6.56566994375263
+Central African Republic,CF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,34.4334184466457
+Chad,TD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,49.1388484128027
+Chile,CL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,23.2750668049145
+China,CN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,34.8105237153218
+Colombia,CO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,14.1832514905064
+Comoros,KM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,11.9332724091044
+"Congo, Dem. Rep.",CD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,26.6494833206385
+"Congo, Rep.",CG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,28.5737499496554
+Costa Rica,CR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,14.3075712471404
+Cote d'Ivoire,CI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,49.4977827339493
+Croatia,HR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,16.1208592960264
+Cuba,CU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,21.2367242811561
+Cyprus,CY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,13.508701890821
+Czechia,CZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,14.1110711384133
+Denmark,DK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,9.06983927345931
+Djibouti,DJ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,35.9243304831101
+Dominica,DM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,20.6672998234563
+Dominican Republic,DO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,19.8267440369685
+Ecuador,EC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,16.6570210758922
+"Egypt, Arab Rep.",EG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,54.8587056496436
+El Salvador,SV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,20.0287144500145
+Equatorial Guinea,GQ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,35.3790521811967
+Eritrea,ER,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,32.3515206386852
+Estonia,EE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,6.14573290973003
+Eswatini,SZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,18.7831211422857
+Ethiopia,ET,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,27.3053276470482
+Fiji,FJ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,12.4187981716598
+Finland,FI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,4.89518090216668
+France,FR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,9.60038144780495
+Gabon,GA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,29.9548734558765
+"Gambia, The",GM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,58.3640402179659
+Georgia,GE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,17.0438421058507
+Germany,DE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,10.2876894329414
+Ghana,GH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,54.2427873097724
+Greece,GR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,14.4089280374361
+Greenland,GL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,6.55624754182179
+Grenada,GD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,24.6572416056476
+Guam,GU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,9.57510553293178
+Guatemala,GT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,21.6357355920496
+Guinea,GN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,43.7674450148382
+Guinea-Bissau,GW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,50.2127655060307
+Guyana,GY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,25.460668047299
+Haiti,HT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,21.3502554448061
+Honduras,HN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,20.3136833896573
+Hungary,HU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,14.1364995764273
+Iceland,IS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,5.10554827500189
+India,IN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,48.3948115195574
+Indonesia,ID,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,17.8814994983985
+"Iran, Islamic Rep.",IR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,32.2873733599003
+Iraq,IQ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,38.1750699787954
+Ireland,IE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,8.17058601306707
+Israel,IL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,18.5982756348314
+Italy,IT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,14.6586386239905
+Jamaica,JM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,17.413637041591
+Japan,JP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,12.835201662985
+Jordan,JO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,28.7737639174179
+Kazakhstan,KZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,20.0278724259165
+Kenya,KE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,24.3917906517518
+Kiribati,KI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,11.2568272545112
+"Korea, Dem. People's Rep.",KP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,29.9291062464217
+"Korea, Rep.",KR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,25.9439899531653
+Kuwait,KW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,53.7151434413218
+Kyrgyz Republic,KG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,24.3817252281764
+Lao PDR,LA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,22.3176670505669
+Latvia,LV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,11.6020322023647
+Lebanon,LB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,19.2310172881236
+Lesotho,LS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,23.4391013240086
+Liberia,LR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,42.3616590279287
+Libya,LY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,32.9707065002742
+Lithuania,LT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,9.21893860360944
+Luxembourg,LU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,8.67476189540246
+Madagascar,MG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,12.7535199510191
+Malawi,MW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,23.6983194353464
+Malaysia,MY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,16.1938532237922
+Maldives,MV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,12.0123911668511
+Mali,ML,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,56.7830489222988
+Malta,MT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,11.7226648774147
+Marshall Islands,MH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,10.7256194470999
+Mauritania,MR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,70.8224442103687
+Mauritius,MU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,9.15296880580014
+Mexico,MX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,14.9923440243315
+"Micronesia, Fed. Sts.",FM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,12.1144203347628
+Moldova,MD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,14.7583463021422
+Monaco,MC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,9.5810695715317
+Mongolia,MN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,29.6547866481682
+Montenegro,ME,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,17.9824100566499
+Morocco,MA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,21.3212642117301
+Mozambique,MZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,20.0802484321177
+Myanmar,MM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,32.3150340028667
+Namibia,NA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,19.9945355710926
+Nauru,NR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,6.06435493209495
+Nepal,NP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,45.7207706412594
+Netherlands,NL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,10.8892498470498
+New Zealand,NZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,6.48591499675774
+Nicaragua,NI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,16.809772538789
+Niger,NE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,85.1223455605238
+Nigeria,NG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,56.5313287289257
+North Macedonia,MK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,26.118651401474
+Northern Mariana Islands,MP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,9.71463085081006
+Norway,NO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,6.05589724673443
+Oman,OM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,39.5835768902765
+Pakistan,PK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,42.9981734249878
+Palau,PW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,7.32770979431049
+Panama,PA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,11.4700607490209
+Papua New Guinea,PG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,17.3105425567239
+Paraguay,PY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,10.0891599097852
+Peru,PE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,27.0356284968814
+Philippines,PH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,20.2887417122616
+Poland,PL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,17.9583314936851
+Portugal,PT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,8.45242266236737
+Puerto Rico (US),PR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,7.18841521712249
+Qatar,QA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,75.6630329481338
+Romania,RO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,14.8501731264834
+Russian Federation,RU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,11.2727775886895
+Rwanda,RW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,31.2882654917538
+Samoa,WS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,12.5518952802963
+San Marino,SM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,10.6908983278922
+Sao Tome and Principe,ST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,27.3357522767854
+Saudi Arabia,SA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,53.1486013629285
+Senegal,SN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,63.7402211262202
+Serbia,RS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,22.5075355689004
+Seychelles,SC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,8.49983857722866
+Sierra Leone,SL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,43.2210935036927
+Singapore,SG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,13.8691955865476
+Slovak Republic,SK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,15.3916194257365
+Slovenia,SI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,14.2911527506818
+Solomon Islands,SB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,13.9542830081778
+Somalia,SO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,24.525108218562
+South Africa,ZA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,23.753069242361
+South Sudan,SS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,30.7373478613476
+Spain,ES,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,9.58105460690675
+Sri Lanka,LK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,19.9644408635608
+St. Kitts and Nevis,KN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,8.5943079884613
+St. Lucia,LC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,23.7585855502375
+St. Vincent and the Grenadines,VC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,23.9262758481858
+Sudan,SD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,45.8349025581217
+Suriname,SR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,27.3059698425997
+Sweden,SE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,5.63670790600148
+Switzerland,CH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,9.06104968621636
+Syrian Arab Republic,SY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,24.7058382627422
+Tajikistan,TJ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,37.0534062306267
+Tanzania,TZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,25.081431153535
+Thailand,TH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,31.0072016277159
+Timor-Leste,TL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,17.4104661970888
+Togo,TG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,51.6661369398223
+Tonga,TO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,12.4784129504796
+Trinidad and Tobago,TT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,25.6022583642289
+Tunisia,TN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,24.1829826735327
+Turkiye,TR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,21.6120469179783
+Turkmenistan,TM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,19.5997611438189
+Tuvalu,TV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,5.91780105591262
+Uganda,UG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,33.8077192571642
+Ukraine,UA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,14.90010098879
+United Arab Emirates,AE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,36.3055030826594
+United Kingdom,GB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,9.91288560282114
+United States,US,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,7.81485752365112
+Uruguay,UY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,10.5717923259135
+Uzbekistan,UZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,31.9604294559849
+Vanuatu,VU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,14.0824115364695
+"Venezuela, RB",VE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,15.2565796212874
+Viet Nam,VN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,20.8010641731194
+Virgin Islands (U.S.),VI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,8.63342756669479
+West Bank and Gaza,PS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,26.3636264444046
+"Yemen, Rep.",YE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,34.8323598356099
+Zambia,ZM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,24.3085919008655
+Zimbabwe,ZW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2020,19.4941796611344

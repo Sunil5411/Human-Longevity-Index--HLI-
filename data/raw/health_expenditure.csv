@@ -1,0 +1,241 @@
+country,country_code,indicator,indicator_name,year,value
+Africa Eastern and Southern,ZH,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,81.5518950187536
+Africa Western and Central,ZI,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,64.4074227528619
+Arab World,1A,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,325.636172435532
+Caribbean small states,S3,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,801.096390908621
+Central Europe and the Baltics,B8,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1182.57491439171
+Early-demographic dividend,V2,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,162.009466846697
+East Asia & Pacific,Z4,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,793.628342680854
+East Asia & Pacific (excluding high income),4E,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,446.479702327493
+East Asia & Pacific (IDA & IBRD countries),T4,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,446.49690890404
+Euro area,XC,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,4261.74086179939
+Europe & Central Asia,Z7,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,2520.12746004454
+Europe & Central Asia (excluding high income),7E,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,313.055745223477
+Europe & Central Asia (IDA & IBRD countries),T7,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,564.114730090213
+European Union,EU,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,3742.85591172145
+Fragile and conflict affected situations,F1,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,74.501655286409
+Heavily indebted poor countries (HIPC),XE,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,47.7029776782202
+High income,XD,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,5450.799862454
+IBRD only,XF,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,356.960283737888
+IDA & IBRD total,ZT,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,275.667858528253
+IDA blend,XH,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,62.2628083960125
+IDA only,XI,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,49.0117571268561
+IDA total,XG,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,53.6585716317993
+Late-demographic dividend,V3,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,600.269934429487
+Latin America & Caribbean,ZJ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,589.402562006271
+Latin America & Caribbean (excluding high income),XJ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,571.985613940258
+Latin America & the Caribbean (IDA & IBRD countries),T2,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,577.777466140481
+Least developed countries: UN classification,XL,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,42.7885098134034
+Low & middle income,XO,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,257.645391488349
+Low income,XM,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,35.8537567712416
+Lower middle income,XN,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,78.8509621700048
+"Middle East, North Africa, Afghanistan & Pakistan",ZQ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,278.42562032687
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,127.087885839305
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",T3,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,125.776700236826
+Middle income,XP,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,278.256215145423
+North America,XU,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,11053.004803704
+OECD members,OE,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,5292.30387213498
+Other small states,S4,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,992.511575571232
+Pacific island small states,S2,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,227.952101156833
+Post-demographic dividend,V4,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,6348.53441356553
+Pre-demographic dividend,V1,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,58.7104287611818
+Small states,S1,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,846.764545494012
+South Asia,8S,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,63.8982524233205
+South Asia (IDA & IBRD),T5,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,63.8982524233205
+Sub-Saharan Africa,ZG,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,74.591986088977
+Sub-Saharan Africa (excluding high income),ZF,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,79.7790393295909
+Sub-Saharan Africa (IDA & IBRD countries),T6,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,74.591986088977
+Upper middle income,XT,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,490.915631545518
+World,1W,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1158.07092985814
+Afghanistan,AF,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,80.0892334
+Albania,AL,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,396.17477417
+Algeria,DZ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,211.07276917
+Andorra,AD,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,3282.81738281
+Angola,AO,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,55.93916321
+Antigua and Barbuda,AG,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,883.50018311
+Argentina,AR,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,891.99621582
+Armenia,AM,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,535.2723999
+Australia,AU,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,5952.890625
+Austria,AT,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,5531.0234375
+Azerbaijan,AZ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,245.21949768
+"Bahamas, The",BS,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1871.10473633
+Bahrain,BH,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1101.79211426
+Bangladesh,BD,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,51.00624084
+Barbados,BB,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1234.30041504
+Belarus,BY,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,420.43655396
+Belgium,BE,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,5144.98144531
+Belize,BZ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,280.52630615
+Benin,BJ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,32.55360031
+Bhutan,BT,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,134.13723755
+Bolivia,BO,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,248.69514465
+Bosnia and Herzegovina,BA,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,594.8225708
+Botswana,BW,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,386.28860474
+Brazil,BR,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,680.76843262
+Brunei Darussalam,BN,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,657.90374756
+Bulgaria,BG,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,856.70440674
+Burkina Faso,BF,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,54.28778839
+Burundi,BI,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,26.21934319
+Cabo Verde,CV,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,235.4349823
+Cambodia,KH,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,110.01118469
+Cameroon,CM,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,66.17185211
+Canada,CA,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,5649.16943359
+Central African Republic,CF,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,42.634758
+Chad,TD,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,37.73088074
+Chile,CL,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1270.97814941
+China,CN,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,582.95092773
+Colombia,CO,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,464.9777832
+Comoros,KM,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,89.67817688
+"Congo, Dem. Rep.",CD,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,20.5593071
+"Congo, Rep.",CG,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,80.09735107
+Costa Rica,CR,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,969.89099121
+Cote d'Ivoire,CI,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,78.97766876
+Croatia,HR,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1094.53283691
+Cuba,CU,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1199.35327148
+Cyprus,CY,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,2483.06005859
+Czechia,CZ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,2106.28027344
+Denmark,DK,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,6530.47509766
+Djibouti,DJ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,66.92816925
+Dominica,DM,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,457.01919556
+Dominican Republic,DO,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,353.79364014
+Ecuador,EC,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,473.01956177
+"Egypt, Arab Rep.",EG,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,148.35269165
+El Salvador,SV,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,357.78799438
+Equatorial Guinea,GQ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,230.32144165
+Eritrea,ER,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,27.66241646
+Estonia,EE,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1789.03417969
+Eswatini,SZ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,236.25013733
+Ethiopia,ET,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,28.28001595
+Fiji,FJ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,256.25967407
+Finland,FI,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,4736.21435547
+France,FR,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,4747.51367188
+Gabon,GA,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,225.32466125
+"Gambia, The",GM,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,26.85589027
+Georgia,GE,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,351.94335938
+Germany,DE,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,5932.20019531
+Ghana,GH,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,97.37677765
+Greece,GR,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1674.78417969
+Grenada,GD,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,477.34429932
+Guatemala,GT,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,289.21640015
+Guinea,GN,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,41.1027565
+Guinea-Bissau,GW,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,68.1931076
+Guyana,GY,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,367.11260986
+Haiti,HT,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,44.4271965
+Honduras,HN,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,212.7419281
+Hungary,HU,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1172.83972168
+Iceland,IS,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,5692.89111328
+India,IN,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,63.83099747
+Indonesia,ID,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,131.8225708
+"Iran, Islamic Rep.",IR,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,201.4589386
+Iraq,IQ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,248.04725647
+Ireland,IE,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,6098.26660156
+Israel,IL,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,3616.50219727
+Italy,IT,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,3062.09838867
+Jamaica,JM,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,323.30215454
+Japan,JP,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,4486.63671875
+Jordan,JO,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,286.19711304
+Kazakhstan,KZ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,329.57086182
+Kenya,KE,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,86.59217834
+Kiribati,KI,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,239.24353027
+"Korea, Rep.",KR,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,2649.33422852
+Kuwait,KW,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1523.4276123
+Kyrgyz Republic,KG,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,61.40720367
+Lao PDR,LA,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,51.96581268
+Latvia,LV,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1313.35412598
+Lebanon,LB,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,518.296875
+Lesotho,LS,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,97.32032776
+Liberia,LR,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,76.11009979
+Libya,LY,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,472.62240601
+Lithuania,LT,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1520.39221191
+Luxembourg,LU,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,6785.86230469
+Madagascar,MG,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,16.78295326
+Malawi,MW,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,43.22896194
+Malaysia,MY,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,406.52005005
+Maldives,MV,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,845.82440186
+Mali,ML,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,28.20211601
+Malta,MT,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,3135.40527344
+Marshall Islands,MH,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,687.02435303
+Mauritania,MR,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,53.89974594
+Mauritius,MU,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,541.95184326
+Mexico,MX,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,535.11669922
+"Micronesia, Fed. Sts.",FM,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,402.98059082
+Moldova,MD,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,306.64892578
+Monaco,MC,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,7579.64404297
+Mongolia,MN,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,188.77464294
+Montenegro,ME,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,896.24884033
+Morocco,MA,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,185.45245361
+Mozambique,MZ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,34.87546539
+Myanmar,MM,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,66.02284241
+Namibia,NA,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,344.69924927
+Nauru,NR,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1270.52563477
+Nepal,NP,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,59.07941437
+Netherlands,NL,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,5865.90527344
+New Zealand,NZ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,4214.57177734
+Nicaragua,NI,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,165.88038635
+Niger,NE,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,35.75509644
+Nigeria,NG,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,67.91384888
+North Macedonia,MK,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,510.81011963
+Norway,NO,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,7824.57714844
+Oman,OM,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,859.24969482
+Pakistan,PK,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,36.9091301
+Palau,PW,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1934.02905273
+Panama,PA,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1358.4498291
+Papua New Guinea,PG,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,55.92817688
+Paraguay,PY,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,411.81765747
+Peru,PE,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,399.59625244
+Philippines,PH,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,166.61218262
+Poland,PL,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1025.98486328
+Portugal,PT,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,2346.33081055
+Qatar,QA,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1967.15197754
+Romania,RO,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,809.58880615
+Russian Federation,RU,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,814.94451904
+Rwanda,RW,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,58.29339218
+Samoa,WS,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,256.74545288
+San Marino,SM,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,3758.609375
+Sao Tome and Principe,ST,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,159.84396362
+Saudi Arabia,SA,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1574.70068359
+Senegal,SN,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,75.16521454
+Serbia,RS,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,670.19439697
+Seychelles,SC,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,693.1987915
+Sierra Leone,SL,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,47.8861618
+Singapore,SG,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,3492.35986328
+Slovak Republic,SK,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1393.62438965
+Slovenia,SI,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,2417.20874023
+Solomon Islands,SB,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,100.99560547
+Somalia,SO,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,12.42313194
+South Africa,ZA,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,503.46759033
+South Sudan,SS,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,47.23431778
+Spain,ES,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,2898.00537109
+Sri Lanka,LK,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,152.001297
+St. Kitts and Nevis,KN,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1067.96020508
+St. Lucia,LC,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,577.55700684
+St. Vincent and the Grenadines,VC,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,406.3571167
+Sudan,SD,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,22.17246819
+Suriname,SR,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,453.44619751
+Sweden,SE,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,6003.09375
+Switzerland,CH,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,10348.34667969
+Syrian Arab Republic,SY,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,30.63546944
+Tajikistan,TJ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,74.17329407
+Tanzania,TZ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,31.72098923
+Thailand,TH,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,304.3817749
+Timor-Leste,TL,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,118.49451447
+Togo,TG,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,52.75213242
+Tonga,TO,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,256.30737305
+Trinidad and Tobago,TT,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1051.83642578
+Tunisia,TN,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,250.46203613
+Turkiye,TR,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,386.2593689
+Turkmenistan,TM,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,420.0083313
+Tuvalu,TV,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,923.06542969
+Uganda,UG,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,44.73381805
+Ukraine,UA,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,265.07846069
+United Arab Emirates,AE,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,2154.41113281
+United Kingdom,GB,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,4816.15283203
+United States,US,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,11672.77050781
+Uruguay,UY,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,1432.00463867
+Uzbekistan,UZ,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,120.29019165
+Vanuatu,VU,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,125.41011047
+"Venezuela, RB",VE,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,153.24269104
+Viet Nam,VN,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,153.10160828
+West Bank and Gaza,PS,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,314.82254028
+"Yemen, Rep.",YE,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,32.30203629
+Zambia,ZM,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,60.01779938
+Zimbabwe,ZW,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2020,51.14250565

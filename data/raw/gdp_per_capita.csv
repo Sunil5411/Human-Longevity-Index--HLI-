@@ -1,0 +1,259 @@
+country,country_code,indicator,indicator_name,year,value
+Africa Eastern and Southern,ZH,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1344.10320999294
+Africa Western and Central,ZI,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1680.03933212698
+Arab World,1A,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,5722.48099531674
+Caribbean small states,S3,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,11925.7573950011
+Central Europe and the Baltics,B8,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,16595.9352698049
+Early-demographic dividend,V2,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3250.74974734387
+East Asia & Pacific,Z4,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,11595.2940923559
+East Asia & Pacific (excluding high income),4E,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8391.36838432688
+East Asia & Pacific (IDA & IBRD countries),T4,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8485.42025780464
+Euro area,XC,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,38234.5335889285
+Europe & Central Asia,Z7,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,24121.4791035767
+Europe & Central Asia (excluding high income),7E,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,5733.41761868436
+Europe & Central Asia (IDA & IBRD countries),T7,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8456.58174660206
+European Union,EU,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,34698.4032089427
+Fragile and conflict affected situations,F1,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1689.91690757517
+Heavily indebted poor countries (HIPC),XE,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,968.074022023344
+High income,XD,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,40219.1360185556
+IBRD only,XF,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,6236.68120499036
+IDA & IBRD total,ZT,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4932.64621363093
+IDA blend,XH,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1735.42504387769
+IDA only,XI,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1179.86645615956
+IDA total,XG,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1374.49201596905
+Late-demographic dividend,V3,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,9869.54019951006
+Latin America & Caribbean,ZJ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,7445.29645309345
+Latin America & Caribbean (excluding high income),XJ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,6892.38171560913
+Latin America & the Caribbean (IDA & IBRD countries),T2,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,7240.29672376392
+Least developed countries: UN classification,XL,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1088.70490856513
+Low & middle income,XO,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4698.51752976729
+Low income,XM,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,607.964753680009
+Lower middle income,XN,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2058.43459982702
+"Middle East, North Africa, Afghanistan & Pakistan",ZQ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4707.81986084887
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2381.42542469934
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",T3,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2375.4738441756
+Middle income,XP,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,5096.7359040376
+North America,XU,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,62262.642409838
+OECD members,OE,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,38704.9773091343
+Other small states,S4,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,11728.9524519274
+Pacific island small states,S2,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3666.08926363725
+Post-demographic dividend,V4,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,44887.3835189149
+Pre-demographic dividend,V1,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1320.70911111119
+Small states,S1,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,10699.2911713647
+South Asia,8S,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1957.20343722686
+South Asia (IDA & IBRD),T5,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1957.20343722686
+Sub-Saharan Africa,ZG,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1480.47864226138
+Sub-Saharan Africa (excluding high income),ZF,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1544.44112077349
+Sub-Saharan Africa (IDA & IBRD countries),T6,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1480.47864226138
+Upper middle income,XT,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8334.90582376743
+World,1W,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,10963.1756422364
+Afghanistan,AF,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,510.787063366811
+Albania,AL,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,5370.77749956875
+Algeria,DZ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3743.5419522929
+American Samoa,AS,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,14489.2586563775
+Andorra,AD,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,37361.0900666982
+Angola,AO,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1449.92286669308
+Antigua and Barbuda,AG,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,15369.6082250401
+Argentina,AR,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8535.59938004389
+Armenia,AM,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4268.68093304583
+Aruba,AW,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,22855.9323200761
+Australia,AU,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,51791.540179984
+Austria,AT,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,48716.4098900349
+Azerbaijan,AZ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4229.91064904503
+"Bahamas, The",BS,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,26178.7537607708
+Bahrain,BH,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,24342.8444554718
+Bangladesh,BD,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2248.85078828233
+Barbados,BB,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,18347.1109131055
+Belarus,BY,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,6542.85579976768
+Belgium,BE,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,45906.2875805246
+Belize,BZ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,5227.19363786168
+Benin,BJ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1200.19426631122
+Bermuda,BM,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,106976.546239632
+Bhutan,BT,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3191.66906999331
+Bolivia,BO,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3099.94219053514
+Bosnia and Herzegovina,BA,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,6130.31133245161
+Botswana,BW,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,6323.29749806946
+Brazil,BR,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,7074.19378337644
+Brunei Darussalam,BN,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,26834.3592463839
+Bulgaria,BG,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,10769.9475699414
+Burkina Faso,BF,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,825.237038782475
+Burundi,BI,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,210.008139902508
+Cabo Verde,CV,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3539.22661248299
+Cambodia,KH,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2081.73914242939
+Cameroon,CM,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1555.60370660749
+Canada,CA,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,43537.839298904
+Cayman Islands,KY,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,82338.7982853661
+Central African Republic,CF,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,462.879071294011
+Chad,TD,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,866.947814890409
+Channel Islands,JG,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,56785.9402005039
+Chile,CL,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,13114.815470545
+China,CN,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,10627.4637989619
+Colombia,CO,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,5339.68711357943
+Comoros,KM,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1527.16990927956
+"Congo, Dem. Rep.",CD,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,507.521230077872
+"Congo, Rep.",CG,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1993.586671931
+Costa Rica,CR,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,12394.0493969354
+Cote d'Ivoire,CI,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2179.72934832935
+Croatia,HR,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,14808.4620188819
+Cuba,CU,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,9605.26125067263
+Curacao,CW,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,16356.0933254541
+Cyprus,CY,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,28649.015625
+Czechia,CZ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,23472.8915454417
+Denmark,DK,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,60985.4885601514
+Djibouti,DJ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2844.88810647853
+Dominica,DM,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,7827.74842680426
+Dominican Republic,DO,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,7135.22273255899
+Ecuador,EC,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,5463.64515348598
+"Egypt, Arab Rep.",EG,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3511.11381026379
+El Salvador,SV,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3997.19279583709
+Equatorial Guinea,GQ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,5764.05502912947
+Estonia,EE,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,23933.9939421065
+Eswatini,SZ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3454.784217446
+Ethiopia,ET,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,905.313159254148
+Faroe Islands,FO,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,62240.822409175
+Fiji,FJ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4844.42127154524
+Finland,FI,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,48828.6846862799
+France,FR,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,39169.8606000707
+French Polynesia,PF,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,19966.4838503859
+Gabon,GA,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,6605.80346077904
+"Gambia, The",GM,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,720.335143352133
+Georgia,GE,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4300.85701291207
+Germany,DE,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,47379.765194548
+Ghana,GH,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2195.45481659987
+Greece,GR,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,17886.733165236
+Greenland,GL,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,54812.6661771023
+Grenada,GD,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8968.55890108484
+Guam,GU,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,36482.9363953675
+Guatemala,GT,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4477.61761796418
+Guinea,GN,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1053.66097696415
+Guinea-Bissau,GW,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,836.26731423732
+Guyana,GY,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,6775.70939096303
+Haiti,HT,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1290.32538667383
+Honduras,HN,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2307.61494319511
+"Hong Kong SAR, China",HK,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,46109.2299946609
+Hungary,HU,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,16386.9308821258
+Iceland,IS,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,59023.5663465778
+India,IN,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1907.04251637669
+Indonesia,ID,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3853.70288774146
+"Iran, Islamic Rep.",IR,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2988.78122414716
+Iraq,IQ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4295.18945121228
+Ireland,IE,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,86622.5067251295
+Isle of Man,IM,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,79513.5330346598
+Israel,IL,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,44575.5719045492
+Italy,IT,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,32091.4866621366
+Jamaica,JM,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4879.44025773374
+Japan,JP,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,40028.7341726762
+Jordan,JO,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4022.0401356135
+Kazakhstan,KZ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8781.50797787648
+Kenya,KE,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1927.66459027849
+Kiribati,KI,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1751.7823197053
+"Korea, Rep.",KR,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,31721.2989141857
+Kosovo,XK,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4310.89065548799
+Kuwait,KW,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,25236.0755520534
+Kyrgyz Republic,KG,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1229.51766602907
+Lao PDR,LA,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2583.77730696131
+Latvia,LV,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,17564.2321549354
+Lebanon,LB,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,5561.19166950397
+Lesotho,LS,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,918.582577421982
+Liberia,LR,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,616.787867006715
+Libya,LY,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,6650.33810585348
+Liechtenstein,LI,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,164671.093553454
+Lithuania,LT,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,20428.6478157394
+Luxembourg,LU,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,116860.02817236
+"Macao SAR, China",MO,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,36976.2561071429
+Madagascar,MG,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,450.771615201509
+Malawi,MW,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,602.507478176106
+Malaysia,MY,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,9957.52626697613
+Maldives,MV,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,7393.8886543933
+Mali,ML,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,953.242943290974
+Malta,MT,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,31833.596382464
+Marshall Islands,MH,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,5661.96787336674
+Mauritania,MR,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1795.76459566714
+Mauritius,MU,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,9011.04288445023
+Mexico,MX,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8841.2707511328
+"Micronesia, Fed. Sts.",FM,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3362.02793142215
+Moldova,MD,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4375.7788930524
+Monaco,MC,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,176891.886538492
+Mongolia,MN,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4001.25193077703
+Montenegro,ME,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,7612.62845881291
+Morocco,MA,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3268.0302734375
+Mozambique,MZ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,462.433876479921
+Myanmar,MM,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1490.21683548367
+Namibia,NA,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3878.58982993966
+Nauru,NR,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,10695.6993301601
+Nepal,NP,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1154.21517578318
+Netherlands,NL,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,53467.9277413737
+New Caledonia,NC,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,33270.330597637
+New Zealand,NZ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,41850.92032802
+Nicaragua,NI,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1938.44704754382
+Niger,NE,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,579.512495758236
+Nigeria,NG,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2019.65706326224
+North Macedonia,MK,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,6659.59651070776
+Northern Mariana Islands,MP,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,18220.8382427201
+Norway,NO,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,68340.0181033702
+Oman,OM,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,16784.8630630058
+Pakistan,PK,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1278.39735206896
+Palau,PW,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,14556.5872302158
+Panama,PA,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,13290.5608347594
+Papua New Guinea,PG,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2429.61134585269
+Paraguay,PY,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,5365.47220721191
+Peru,PE,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,6133.32552410183
+Philippines,PH,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3227.57910235199
+Poland,PL,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,16150.9291009726
+Portugal,PT,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,22299.4044062173
+Puerto Rico (US),PR,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,31427.1130762831
+Qatar,QA,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,51683.5054376677
+Romania,RO,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,13082.3006559554
+Russian Federation,RU,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,10108.3271484375
+Rwanda,RW,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,778.701498787411
+Samoa,WS,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4099.6600907147
+San Marino,SM,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,44426.6463400658
+Sao Tome and Principe,ST,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2167.22001796925
+Saudi Arabia,SA,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,24338.8307301067
+Senegal,SN,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1461.08720350553
+Serbia,RS,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8098.70955668849
+Seychelles,SC,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,14041.4754074575
+Sierra Leone,SL,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,845.982914284565
+Singapore,SG,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,61410.0792630788
+Sint Maarten (Dutch part),SX,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,30150.8998380477
+Slovak Republic,SK,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,19735.4858280801
+Slovenia,SI,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,25392.0651093612
+Solomon Islands,SB,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2063.33101522108
+Somalia,SO,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,518.184778494334
+South Africa,ZA,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,5580.60383075189
+Spain,ES,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,27233.9426461608
+Sri Lanka,LK,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3847.60137695639
+St. Kitts and Nevis,KN,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,18859.0190361046
+St. Lucia,LC,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8411.07474936367
+St. Vincent and the Grenadines,VC,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8351.20324040982
+Sudan,SD,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,577.795227050781
+Suriname,SR,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4755.39221710693
+Sweden,SE,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,52653.7565934247
+Switzerland,CH,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,85897.7843338323
+Syrian Arab Republic,SY,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,572.355289831901
+Tajikistan,TJ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,834.311715460625
+Tanzania,TZ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1117.41528320313
+Thailand,TH,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,6985.64393892574
+Timor-Leste,TL,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1630.86938521256
+Togo,TG,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,853.578220263722
+Tonga,TO,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4700.44940541029
+Trinidad and Tobago,TT,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,15358.8612973066
+Tunisia,TN,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3548.65363663803
+Turkiye,TR,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8638.73903848102
+Turkmenistan,TM,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,6592.60146027748
+Turks and Caicos Islands,TC,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,20690.9160546118
+Tuvalu,TV,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,4976.11254109571
+Uganda,UG,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,845.76646385001
+Ukraine,UA,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3709.76928710938
+United Arab Emirates,AE,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,37173.8754093066
+United Kingdom,GB,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,40404.8062238951
+United States,US,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,64401.5074354212
+Uruguay,UY,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,15757.5355995779
+Uzbekistan,UZ,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1978.28051860763
+Vanuatu,VU,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3042.98711598286
+Viet Nam,VN,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3534.03953482647
+Virgin Islands (U.S.),VI,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,39787.3741650202
+West Bank and Gaza,PS,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3233.56863835858
+"Yemen, Rep.",YE,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,559.564675805502
+Zambia,ZM,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,951.644316655957
+Zimbabwe,ZW,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1730.45391034701
